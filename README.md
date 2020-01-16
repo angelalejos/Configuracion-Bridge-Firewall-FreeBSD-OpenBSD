@@ -16,21 +16,21 @@ Con el bridge no tendrás la necesidad de dividir tu switch en dos, ya que simpl
 Cómo uso un Bridge+Firewall ?
 Es fácil de usar solo se cortara la ruta físicamente que conecta el gateway o router con la red local y se pondrá. Me explico mejor con un pequeño grafico.
 
-************
-* Internet *
-************
-     |
-***********
-* Gateway *
-***********
-     |
-***********
-* Bridge  *
-***********
-     |
-*************
-* Red Local *
-*************
+    ************
+    * Internet *
+    ************
+        |
+    ***********
+    * Gateway *
+    ***********
+        |
+    ***********
+    * Bridge  *
+    ***********
+        |
+    *************
+    * Red Local *
+    *************
 Manos a la Obra... =)
 
 Requisitos:

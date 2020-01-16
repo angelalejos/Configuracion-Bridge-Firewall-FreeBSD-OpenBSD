@@ -142,7 +142,11 @@ Suerte!!! ;-)
 
 Links :
 http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig.html
+
 http://www.daemonnews.org/200103/ipf_bridge.html
+
 http://www.freebsd-howto.com/HOWTO/Ipfw-HOWTO
+
 http://www.openbsd.org/faq/faq6.html#6.2
+
 http://www.obfuscation.org/ipf/ipf-howto.txt
